@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/normal_map"
+        android:title="@string/normal"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/terrain_map"
+        android:title="@string/terrain"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/sattelite_map"
+        android:title="@string/sattelite"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/hybrid_map"
+        android:title="@string/hybrid"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+        />
+</menu>
